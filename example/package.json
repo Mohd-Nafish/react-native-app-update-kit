@@ -12,12 +12,13 @@
     "build:web": "expo export --platform web"
   },
   "dependencies": {
-    "@expo/metro-runtime": "~55.0.11",
-    "expo": "~55.0.26",
-    "expo-status-bar": "~55.0.6",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "react-native": "0.83.6",
+    "@expo/metro-runtime": "~56.0.13",
+    "expo": "^56.0.0",
+    "expo-status-bar": "~56.0.4",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.85.3",
+    "react-native-app-update-kit": "workspace:*",
     "react-native-web": "~0.21.0"
   },
   "private": true,

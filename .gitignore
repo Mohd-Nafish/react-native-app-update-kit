@@ -52,6 +52,7 @@ example/vendor/
 #
 node_modules/
 npm-debug.log
+package-lock.json
 yarn-debug.log
 yarn-error.log
 
@@ -71,6 +72,7 @@ android/keystores/debug.keystore
 
 # Expo
 .expo/
+example/dist/
 
 # Turborepo
 .turbo/
