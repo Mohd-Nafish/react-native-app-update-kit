@@ -250,23 +250,6 @@ yarn example start
 
 The demo includes dark mode toggle, all components, and modal previews.
 
-## Screenshots
-
-> Add screenshots to `docs/screenshots/` after running the example app.
-
-| Component          | Preview                                      |
-| ------------------ | -------------------------------------------- |
-| Update Banner      | `docs/screenshots/update-banner.png`         |
-| Update Button      | `docs/screenshots/update-button.png`         |
-| Update Modal       | `docs/screenshots/update-modal.png`          |
-| Force Update Modal | `docs/screenshots/force-update-modal.png`    |
-| Dark Mode          | `docs/screenshots/dark-mode.png`             |
-
-```sh
-yarn example start
-# Capture screenshots from iOS Simulator or Android Emulator
-```
-
 ## License
 
 MIT © [Mohd Nafish](./LICENSE)
